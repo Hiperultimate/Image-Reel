@@ -153,7 +153,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-2">
                         <div class="text">
-                            <p><span>Made By: Manak Kumar Singh (A12405218061)</span></p>
+                            <p><span>Made By: Manak Kumar Singh</span></p>
                         </div>
                     </div>
                 </div>
